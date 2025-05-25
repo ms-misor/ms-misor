@@ -23,15 +23,15 @@ Currently working as a Software Engineer at [Bdtask](https://bdtask.com).
 <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23FF9900.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23563D7C.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
 <img alt="Codeigniter" src="https://img.shields.io/badge/codeigniter%20-%23563D7C.svg?&style=for-the-badge&logo=codeigniter&logoColor=red"/>
-<img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="react" src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/ngnix%20-%2300f.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/VPS%20-%23563D7C.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%ff0.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<img alt="Google Datastore" src="https://img.shields.io/badge/Google Datastore%20-%ff0.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+<img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> 
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="VPS" src="https://img.shields.io/badge/VPS%20-%23563D7C.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Google Cloud" src="https://img.shields.io/badge/google%20cloud-%23FFCC00.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="Google Datastore" src="https://img.shields.io/badge/Google%20Datastore-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="sass" src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
