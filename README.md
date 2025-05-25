@@ -28,7 +28,7 @@ Currently working as a Software Engineer at [Bdtask](https://bdtask.com).
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> 
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="VPS" src="https://img.shields.io/badge/VPS%20-%23563D7C.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+<img alt="VPS" src="https://img.shields.io/badge/VPS-%23563D7C.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/google%20cloud-%23FFCC00.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Google Datastore" src="https://img.shields.io/badge/Google%20Datastore-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
