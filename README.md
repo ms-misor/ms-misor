@@ -42,7 +42,7 @@ Currently working as a Software Engineer at [Bdtask](https://bdtask.com).
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-misor&langs_count=6&hide=css,html,vue&layout=compact&theme=radical&count_private=true)](https://github.com/ms-misor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-misor&langs_count=6&hide=css,html,vue,scss&layout=compact&theme=radical&count_private=true)](https://github.com/ms-misor)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ms-misor&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/ms-misor))
 
 ## 👨‍💻 Based on VS Code I spent my time on :
